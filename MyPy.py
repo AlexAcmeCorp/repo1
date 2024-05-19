@@ -19,6 +19,3 @@ def update_expense(identifier, new_details, new_amount):
 def view_expenses():
     for expense in expenses:
         print(expense)
-
-
-nnnnnnnnn
